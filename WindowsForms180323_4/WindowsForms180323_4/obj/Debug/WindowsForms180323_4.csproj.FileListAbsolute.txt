@@ -1,0 +1,9 @@
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\bin\Debug\WindowsForms180323_4.exe.config
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.csprojResolveAssemblyReference.cache
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.Form1.resources
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.Properties.Resources.resources
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.csproj.GenerateResource.Cache
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\bin\Debug\WindowsForms180323_4.exe
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\bin\Debug\WindowsForms180323_4.pdb
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.exe
+C:\Users\COMSO\Desktop\WindowsForms180323_4\WindowsForms180323_4\obj\Debug\WindowsForms180323_4.pdb
