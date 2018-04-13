@@ -1,0 +1,14 @@
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.exe.config
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.csprojResolveAssemblyReference.cache
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadForm.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.Properties.Resources.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.csproj.GenerateResource.Cache
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.exe
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.pdb
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.exe
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.pdb
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadChildForm.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadParantForm.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.DlgForm.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.MyDlg.resources
+C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.ThreadForm.resources
