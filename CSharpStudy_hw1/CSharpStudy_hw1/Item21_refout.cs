@@ -10,7 +10,7 @@ namespace CSharpStudy_hw1
     {
         public static void Practice()
         {
-            Console.WriteLine("예제: " + typeof(Item21_refout).Name);
+            Console.WriteLine("\n예제: " + typeof(Item21_refout).Name);
             int a, b;
             //ref 변수는 초기화 전에 사용 불가
             /*SwapRef(ref a, ref b);

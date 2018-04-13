@@ -10,7 +10,7 @@ namespace CSharpStudy_hw1
     {
         public static void Practice()
         {
-            Console.WriteLine("예제: " + typeof(Item27_var).Name);
+            Console.WriteLine("\n예제: " + typeof(Item27_var).Name);
             //암시적으로 형식화 된 변수는 한번에 여러개 선언불가
             //var v1, v2, v3, v4;
             //암시적으로 형식화 된 변수는 선언 즉시 초기화 해야 한다.

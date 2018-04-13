@@ -42,6 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Item11_GC.cs" />
+    <Compile Include="Item28_Static.cs" />
+    <Compile Include="Item26_Flag.cs" />
+    <Compile Include="Item25_NullNoalescing.cs" />
+    <Compile Include="Item24_Nullable .cs" />
+    <Compile Include="Item23_Generics.cs" />
+    <Compile Include="Item22_Delgate.cs" />
     <Compile Include="Item21_refout.cs" />
     <Compile Include="Item27_var.cs" />
     <Compile Include="Program.cs" />
