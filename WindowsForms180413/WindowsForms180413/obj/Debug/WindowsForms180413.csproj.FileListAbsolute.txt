@@ -12,3 +12,18 @@ C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsFo
 C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.DlgForm.resources
 C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.MyDlg.resources
 C:\Users\COMSO\Desktop\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.ThreadForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.exe.config
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.exe
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\bin\Debug\WindowsForms180413.pdb
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.csprojResolveAssemblyReference.cache
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.DlgForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.MyDlg.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadChildForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadParantForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.NotePadForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.Properties.Resources.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.ThreadForm.resources
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.csproj.GenerateResource.cache
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.csproj.CoreCompileInputs.cache
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.exe
+D:\OneDrive - kw.ac.kr\private develop\CSharpPractice\WindowsForms180413\WindowsForms180413\obj\Debug\WindowsForms180413.pdb
