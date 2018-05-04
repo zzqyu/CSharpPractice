@@ -1,0 +1,11 @@
+C:\Users\COMSO\Desktop\180504\180504\bin\Debug\180504.exe.config
+C:\Users\COMSO\Desktop\180504\180504\bin\Debug\180504.exe
+C:\Users\COMSO\Desktop\180504\180504\bin\Debug\180504.pdb
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\180504.csprojResolveAssemblyReference.cache
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\_180504.Form1.resources
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\_180504.Properties.Resources.resources
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\180504.csproj.GenerateResource.Cache
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\180504.exe
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\180504.pdb
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\_180504.PictureBoxMove.resources
+C:\Users\COMSO\Desktop\180504\180504\obj\Debug\_180504.Graph.resources
