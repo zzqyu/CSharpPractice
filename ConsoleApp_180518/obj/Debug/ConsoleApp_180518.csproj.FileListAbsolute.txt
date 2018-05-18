@@ -1,0 +1,7 @@
+C:\Users\comso\Desktop\ConsoleApp_180518\bin\Debug\ConsoleApp_180518.exe.config
+C:\Users\comso\Desktop\ConsoleApp_180518\bin\Debug\ConsoleApp_180518.exe
+C:\Users\comso\Desktop\ConsoleApp_180518\bin\Debug\ConsoleApp_180518.pdb
+C:\Users\comso\Desktop\ConsoleApp_180518\obj\Debug\ConsoleApp_180518.csprojResolveAssemblyReference.cache
+C:\Users\comso\Desktop\ConsoleApp_180518\obj\Debug\ConsoleApp_180518.csproj.CoreCompileInputs.cache
+C:\Users\comso\Desktop\ConsoleApp_180518\obj\Debug\ConsoleApp_180518.exe
+C:\Users\comso\Desktop\ConsoleApp_180518\obj\Debug\ConsoleApp_180518.pdb
